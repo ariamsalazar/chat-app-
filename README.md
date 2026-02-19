@@ -7,11 +7,11 @@ Chat APP Example
   - Authentication: Protects endpoints with a Bearer token.
   - Swagger docs: Interactive API explorer at /api/v1/docs.
 
-- Example #1
+- Example #1: Messages list from others users.
 
 <img width="947" height="658" alt="image" src="https://github.com/user-attachments/assets/99443219-5a1b-415c-8fe7-37ecc2a7c4e6" />
 
-- Example #2: Uer send a message.
+- Example #2: User send a message.
 
 <img width="942" height="658" alt="image" src="https://github.com/user-attachments/assets/2cd432fe-aa01-482f-93b9-a731a8c0dbeb" />
 
